@@ -3,6 +3,9 @@
 
 ![image](https://github.com/user-attachments/assets/ddd0b41e-9e84-498b-b1ae-7bb76bc29795)
 
+## Скачать  приложение
+[buildin-Malthus-model.zip](https://github.com/user-attachments/files/18506533/buildin-Malthus-model.zip)
+
 ## Решение модели в Excel
 Чтобы убедиться в правильности написания программы, мы предварительно решили эту модель в Excel.
 
@@ -39,5 +42,3 @@
 
 ![image](https://github.com/user-attachments/assets/b96d160e-433d-46b9-b2d6-1e2dac900a74)
 
-## Скачать версию приложения
-[buildin-Malthus-model.zip](https://github.com/user-attachments/files/18506533/buildin-Malthus-model.zip)
